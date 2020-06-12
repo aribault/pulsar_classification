@@ -1,4 +1,5 @@
 articles/
+models/
 *.zip
 
 # Byte-compiled / optimized / DLL files
